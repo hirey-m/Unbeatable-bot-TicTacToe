@@ -18,6 +18,9 @@ Welcome to the Tic-Tac-Toe game! This is a command-line based game where you can
 ## GeniusComputer
 The GeniusComputer uses the MiniMax algorithm to decide its next move. This algorithm evaluates all possible future game states and chooses the move that leads to the highest-scoring state for the computer. As a result, the GeniusComputer will either win or draw the game.
 
+### Screenshot
+<img width="2243" alt="Screenshot 2023-01-19 at 12 43 23 PM" src="https://user-images.githubusercontent.com/114593746/213521056-b6984ea8-ca79-4778-a25e-5b9625adc607.png">
+
 ### Note
 The game is developed and tested on python 3.8.2
 
